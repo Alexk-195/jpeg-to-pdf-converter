@@ -241,6 +241,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ by [Your Name](https://github.com/Alexk-195)**
+**Made with ❤️ by [Alexk-195](https://github.com/Alexk-195) and Claude 4 Sonnet**
 
 *If this project helped you, please consider giving it a ⭐ on GitHub!*
